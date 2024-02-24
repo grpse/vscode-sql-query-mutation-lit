@@ -8,7 +8,7 @@
   "displayName": "SQL Lit",
   "icon": "images/sql-lit.png",
   "description": "Syntax highlighting for SQL tagged template literals in JavaScript and TypeScript.",
-  "publisher": "thebearingedge",
+  "publisher": "grpse",
   "categories": [
     "Programming Languages",
     "Themes"

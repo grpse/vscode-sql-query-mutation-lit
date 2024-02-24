@@ -13,7 +13,7 @@
   "repository": {
     "sql-template-literal": {
       "name": "meta.embedded.block.sql",
-      "begin": "(?i)(?:[_$[:alpha:]][_$[:alnum:]]*\\.)?((sql|db)\\w*\\s*(\\.[_$[:alpha:]][_$[:alnum:]]*)?)\\s*(<.+>)?(\\([^)]+\\))?(\\s*`)",
+      "begin": "(?i)(?:[_$[:alpha:]][_$[:alnum:]]*\\.)?((sql|db|query|mutate)\\w*\\s*(\\.[_$[:alpha:]][_$[:alnum:]]*)?)\\s*(<.+>)?(\\([^)]+\\))?(\\s*`)",
       "beginCaptures": {
         "1": {
           "name": "entity.name.function.tagged-template.js"
