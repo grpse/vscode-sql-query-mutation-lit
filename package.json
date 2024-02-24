@@ -1,5 +1,5 @@
 {
-  "name": "vscode-sql-lit",
+  "name": "vscode-sql-query-mutate-lit",
   "version": "0.7.0",
   "engines": {
     "vscode": "^1.22.0"
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thebearingedge/vscode-sql-lit"
+    "url": "https://github.com/grpse/vscode-sql-query-mutation-lit"
   }
 }
